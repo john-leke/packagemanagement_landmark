@@ -1,3 +1,6 @@
+leke  - use this 
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-10-on-ubuntu-20-04
+
 #  **<span style="color:green">Landmark Technologies, Ontario, Canada.</span>**
 ### **<span style="color:green">Contacts: +1437 215 2483<br> WebSite : <http://mylandmarktech.com/></span>**
 ### **Email: mylandmarktech@gmail.com**
